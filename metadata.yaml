@@ -1,5 +1,5 @@
 _repo: Liza--Or--A-Nest-of-Nobles-_12194
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Ralston, William Ralston Shedden
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '4863'
     url: http://www.gutenberg.org/2009/agents/4863
     wikipedia: http://en.wikipedia.org/wiki/William_Shedden_Ralston
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Turgenev, Ivan Sergeevich
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/922
     wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12194#Liza--Or--A-Nest-of-Nobles-
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
